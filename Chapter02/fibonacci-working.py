@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#!/home/jepoy/anaconda3/bin/python
+## at terminal which python
 
 #simple fibonacci series
 # the sum of two elements defines the next set
