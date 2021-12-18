@@ -6,7 +6,7 @@ import sqlite3
 
 def main():
     print('connect')
-    db = sqlite3.connect('./Chapter15/db-api.db') # note the path
+    db = sqlite3.connect('./Chapter15/db-api.db') # note the pathB
     cur = db.cursor()
     print('create')
     cur.execute("DROP TABLE IF EXISTS test")
